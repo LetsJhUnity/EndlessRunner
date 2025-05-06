@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27ba2e6ad4a1487448e2b7dc84202e7d
+timeCreated: 1504319380
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99393
+  packageName: Wooden Crate
+  packageVersion: 1.0
+  assetPath: Assets/WoodenCrate/Prefab/Wooden Crate.prefab
+  uploadId: 199134
